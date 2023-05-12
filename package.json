@@ -1,0 +1,20 @@
+{
+  "name": "pro_class_5",
+  "version": "1.0.0",
+  "description": "-   [XAMPP](https://www.apachefriends.org/es/index.html)\r -   [Node JS](https://nodejs.org/es)\r -   [git](https://www.youtube.com/watch?v=9uKPY7V_ai8)\r -   [VScode](https://code.visualstudio.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-mysql-session": "^3.0.0",
+    "express-session": "^1.17.3",
+    "mysql": "^2.18.1",
+    "util": "^0.12.5"
+  }
+}
