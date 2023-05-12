@@ -96,6 +96,11 @@ por lo cual se puede iniciar el server con el siguiente comando
 - Crear carpeta "rutas" dentro de "src"
 - crear archivo index.js dentro de "src"
 
+- crear archivo ".gitignore" al mismo nivel de "package.json"
+- El archivo ".gitignore" contiene
+    - node_module
+    - package-lock.json
+- Crear rutas con base de datos
 
 
 
